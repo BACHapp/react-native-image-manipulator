@@ -2,7 +2,7 @@ An API to modify images stored on the local file system.
 
 ## Installation
 
-1. `yarn add https://github.com/pontusab/react-native-image-manipulator`
+1. `yarn add https://github.com/BACHapp/react-native-image-manipulator`
 2. `pod 'react-native-image-manipulator', :path => './node_modules/react-native-image-manipulator/ios'`
 3. `pod install`
 

@@ -1,6 +1,6 @@
 package com.reactnativeimagemanipulator.arguments;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
 
 import java.util.ArrayList;
 import java.util.Map;
